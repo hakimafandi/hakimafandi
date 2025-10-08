@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **DevOps fundamentals — CI/CD, containers, and infrastructure as code,Advanced Laravel and FilamentPHP for dynamic UI development, Database optimization and query efficiency**
   
 - 🏆 Certification:
+  
   [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d654b4a3-a238-4eec-a1a9-1de3bcde441f/linked_in_profile)
 
 ✅ AWS Certified Cloud Practitioner (CLF-C02) — verified foundational knowledge of cloud concepts, AWS services, and global infrastructure
