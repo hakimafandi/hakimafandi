@@ -9,6 +9,7 @@
   
 - 🏆 Certification:
   [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d654b4a3-a238-4eec-a1a9-1de3bcde441f/linked_in_profile)
+
 ✅ AWS Certified Cloud Practitioner (CLF-C02) — verified foundational knowledge of cloud concepts, AWS services, and global infrastructure
 
 - 🤝 I’m looking for help with **Deploying Laravel projects on cloud platforms (AWS, Azure, etc.) Implementing real-time features and API integrations Improving DevOps workflows (CI/CD pipelines and Docker)**
