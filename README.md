@@ -1,6 +1,3 @@
-
-<h1 ![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/6e163af5-b801-4146-b703-85d5ba305048)
-align="center">
 Hi 👋, I'm Luqman Hakim Zahir</h1>
 <h3 align="center">A passionate Cybersecurity Graduate with Secure Coding Mindset</h3>
 
